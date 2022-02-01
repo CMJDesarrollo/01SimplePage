@@ -11,6 +11,7 @@ El sitio cuenta con un título principal, una barra de navegación, un banner co
 Por parte de CSS se utilizaron: Box Model, sombras, degradados, grids, flexbox, etc.
 
 ![Vista previa](img/preview.png)
+[Ver]
 
 ## Tecnologías
 
@@ -29,5 +30,6 @@ GNU GENERAL PUBLIC LICENSE
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
    
+   [Ver]: <https://cmjdesarrollo.github.io/01SimplePage/>
    [Normalize]: <https://necolas.github.io/normalize.css/>
    [Google Fonts]: <https://fonts.google.com/>
